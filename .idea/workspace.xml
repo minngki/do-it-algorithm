@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e3a9025-2cc5-4df2-8389-5945807ab4eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/1_버블정렬.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/image/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_5_스택과_큐.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_5_스택과_큐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_1_배열과_리스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/1_배열과_리스트.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_2_구간_합.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/2_구간_합.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_3_투_포인터.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/3_투_포인터.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_4_슬라이딩_윈도우.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/4_슬라이딩_윈도우.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/03_5_스택과_큐.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/03_자료구조/5_스택과_큐.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +26,32 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2ifP8A6fiZjxeq0BdTu6ZrAKYFc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2_코딩테스트_기초편" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +69,8 @@
       <option name="presentableId" value="Default" />
       <updated>1719878497006</updated>
       <workItem from="1719878498081" duration="28000" />
-      <workItem from="1721105961900" duration="2969000" />
+      <workItem from="1721105961900" duration="6694000" />
+      <workItem from="1721121732615" duration="7486000" />
     </task>
     <servers />
   </component>
