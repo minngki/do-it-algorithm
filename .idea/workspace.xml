@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e3a9025-2cc5-4df2-8389-5945807ab4eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/image/insertionSort.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/image/selectionSort.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/1_버블정렬.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/1_버블정렬.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/2_선택정렬.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/2_선택정렬.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/3_삽입정렬.md" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/04_정렬/3_삽입정렬.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_코딩테스트_기초편/image/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/2_코딩테스트_기초편/image/bubbleSort.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
